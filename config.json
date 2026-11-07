@@ -1,0 +1,9 @@
+{
+  "trigger": {
+    "enabled": true,
+    "delay_ms": 40,
+    "zone": 3,
+    "toggle": true,
+    "hotkey": "F8"
+  }
+}
